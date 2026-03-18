@@ -1,11 +1,11 @@
-# Hi, I'm Jhon Morán 👋 | Hola, soy Jhon Morán
+# Hi, I'm Jhon Morán  | Hola, soy Jhon Morán
 
 > *"The best way to predict the future is to build it."*
 > *"La mejor forma de predecir el futuro es construirlo."*
 
 ---
 
-## 👨‍💻 About me | Sobre mí
+##  About me | Sobre mí
 
 I'm a 6th semester Software Engineering student at **Universidad Estatal de Milagro (UNEMI)**, Ecuador.
 I'm passionate about backend development and building technology that solves real problems.
@@ -42,7 +42,7 @@ Actualmente busco una pasantía — remota o presencial.
 
 ---
 
-## 🚀 Featured Projects | Proyectos Destacados
+## Featured Projects | Proyectos Destacados
 
 ### 🎓 [EduAccess](https://github.com/Jhon-MVP/EduAccess)
 > Accessible LMS platform for visually impaired students with AI integration.
@@ -52,7 +52,7 @@ Actualmente busco una pasantía — remota o presencial.
 
 ---
 
-### 🍽️ Restaurant Complaint Management System
+###  Restaurant Complaint Management System
 > Full CRUD web application for managing restaurant customer complaints.
 > Aplicación web CRUD completa para gestión de reclamos de clientes de un restaurante.
 
@@ -60,7 +60,7 @@ Actualmente busco una pasantía — remota o presencial.
 
 ---
 
-## 📫 Connect with me | Encuéntrame en
+##  Connect with me | Encuéntrame en
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1f4a?style=for-the-badge&logo=linkedin&logoColor=378ADD)](https://www.linkedin.com/in/jhon-morán-307043269)
 
